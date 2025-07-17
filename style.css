@@ -981,8 +981,8 @@
     height: auto;
   }
   .box11 {
-    height: 36vh;
-    width: 95vw;
+    height: 41vh;
+    width: auto;
     border: 1px solid black;
     overflow: hidden;
     position: absolute;
@@ -992,7 +992,7 @@
     letter-spacing: 1px;
     color: #ffffff;
     font-weight: 100;
-    width: 88vw;
+    width: 95vw;
     background-color: #ff4f4f;
     margin: 0px;
     padding: 5px 14px;
