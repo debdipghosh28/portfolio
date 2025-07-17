@@ -584,7 +584,7 @@
     .box12 .box3 img{
       width:auto;
       height: 9vh;
-      margin-top: 22px;
+      margin-top: 5px;
     }
     .box12 .box4 h2{
       letter-spacing: 1px;
@@ -1114,7 +1114,7 @@
     }
     .box5 {
       height: 32vh;
-      width: auto;
+      width: 97vw;
       border: 1px solid black;
       position: absolute;
       background-color: white;
