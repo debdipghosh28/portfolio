@@ -298,7 +298,7 @@
     font-family: Libertinus Math;
       font-weight: 100;
       width: 28vw;
-      margin-top: 5px;
+      margin-top: 25px;
       margin-left: 67px;
 
   }
@@ -306,10 +306,11 @@
   .box .about .txt a{ 
     font-size: 14px;
     color: rgb(255 255 255);
-    font-weight: bold;
+    font-weight: bolder;
     padding: 6px;
     background-color: rgb(255, 85, 85);
-    
+    position: absolute;
+    top: 36vh;
     border-radius: 5px;
     text-decoration: none;
     font-family: "Montserrat", sans-serif;
@@ -362,7 +363,9 @@
       font-weight: bold;
     }
     .certificate img {
-      height: 14px;
+      height: 23px;
+      position: absolute;
+      right: 3vh;
       margin: 19px 5px 15px 0;
     }
     .box6 .certificate {
@@ -434,8 +437,8 @@
 
     /* beyond codes */
     .box11{
-      height: 60vh;
-      width: 40vw;
+      height: 52vh;
+      width: auto;
     border: 1px solid black;
     overflow: hidden;
     position: absolute;
@@ -453,8 +456,8 @@
       justify-content: space-between;
     }
     .box11 .certificate1 h4{
-      width: 11vw;
-      margin-top: 16px;
+      width: 36vw;
+      margin-top: 26px;
       margin-bottom: 16px;
       margin-left: 20px;
       font-size: 20px;
@@ -495,6 +498,8 @@
     }
     
     .box11 .new img {
+      margin-top: 15px;
+      margin-left: 9px;
       width: 33vw;
       display:flex;
     
@@ -525,8 +530,8 @@
 
     /* skills */
     .box12{
-      height: 65vh;
-      width: 55vw;
+      height: 58vh;
+      width: 52vw;
     border: 1px solid black;
     overflow: hidden;
     position: absolute;
@@ -552,7 +557,7 @@
       font-weight: bold;
     }
     .certificate img {
-      height: 14px;
+      height: 23px;
       margin: 19px 5px 15px 0;
     }
     .box12 .certificate {
@@ -578,7 +583,7 @@
     }
     .box12 .box3 img{
       width:auto;
-      height: 12vh;
+      height: 9vh;
       margin-top: 22px;
     }
     .box12 .box4 h2{
@@ -590,7 +595,7 @@
 
     .box12 .box4 img{
       width:auto;
-      height: 12vh;
+      height: 9vh;
       margin-top: 22px; 
 
     }
@@ -645,7 +650,7 @@
   /* contact */
   .box5{
       height: 42vh;
-      width: 36vw;
+      width: 30vw;
     border: 1px solid black;
     position: absolute;
     background-color: white;
@@ -676,7 +681,7 @@
       letter-spacing: 1px;
       color: #ffffff;
       font-weight: 100;
-      width: 35vw;
+      width: 29vw;
       background-color: #ff4f4f;
       margin: 0px;
       padding: 5px 9px;
@@ -721,8 +726,8 @@
       font-family: "Montserrat", sans-serif;
       line-height: 23px;
     position: absolute;
-    right: 46%;
-    top:64%
+    right: 38%;
+    top:66%
   }
   .boxmain .box25 h2{
       width: 15vw;
@@ -892,14 +897,14 @@
     letter-spacing: 1px;
     color: #000;
     font-family: Libertinus Math;
-    font-weight: 100;
+    font-weight: bolder;
     width: 89vw;
     margin-top: 18px;
     margin-left: 8px;
   }
   .box{
-    height: 36vh;
-    width: 94vw;
+    height: 42vh;
+    width: auto;
     border: 1px solid black;
     position: absolute;
     background-color: white;
@@ -909,7 +914,7 @@
     letter-spacing: 1px;
     color: #000;
     font-family: Libertinus Math;
-    font-weight: 100;
+    font-weight: bolder;
     width: 90vw;
     margin-top: 11px;
     margin-left: 8px;
@@ -940,8 +945,8 @@
     line-height: 23px;
   }
   .box6 {
-    height: 36vh;
-    width: 95vw;
+    height: 42vh;
+    width: auto;
     border: 1px solid black;
     overflow: hidden;
     position: absolute;
@@ -1030,8 +1035,8 @@
     margin: 19px 5px 15px 0;
   }
   .box12 {
-    height: 36vh;
-    width: 95vw;
+    height: 42vh;
+    width: auto;
     border: 1px solid black;
     overflow: hidden;
     position: absolute;
@@ -1041,7 +1046,7 @@
     letter-spacing: 1px;
     color: #ffffff;
     font-weight: 100;
-    width: 88vw;
+    width: 90vw;
     background-color: #ff4f4f;
     margin: 0px;
     padding: 5px 14px;
@@ -1059,12 +1064,12 @@
   }
   .box12 .box4 img {
     width: auto;
-    height: 3vh;
+    height: 4vh;
     margin-top: 22px;
   }
   .box12 .box3 img {
     width: auto;
-    height: 3vh;
+    height: 4vh;
     margin-top: 22px;
   }
   .parent .box4 h2 {
